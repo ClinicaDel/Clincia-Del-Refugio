@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clinica Del Refugio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Clinica Del Refugio</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Appointments</a>
+      <a href="#">Services</a>
+      <a href="#">Immigration</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>Clinica Del Refugio is a family-friendly health clinic that provides comprehensive care to the community. We offer a wide range of services, including primary care, pediatrics, women's health, and more. We are committed to providing quality care to all patients, regardless of their ability to pay.</p>
+    </section>
+    <section>
+      <h2>Appointments</h2>
+      <p>You can easily book an appointment online through our website. Simply click on the "Appointments" tab and fill out the form. We will contact you to confirm your appointment.</p>
+    </section>
+    <section>
+      <h2>Services</h2>
+      <ul>
+        <li>Primary Care</li>
+        <li>Pediatrics</li>
+        <li>Women's Health</li>
+        <li>Immigration Services</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Immigration Services</h2>
+      <p>We offer a variety of services to help immigrants obtain visas and green cards. We also provide resources for immigrants, such as information on how to find housing and jobs.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 Clinica Del Refugio</p>
+  </footer>
+</body>
+</html>
